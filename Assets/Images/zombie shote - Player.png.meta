@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 9744d8c6a63d3254999321d80429e1ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4969448338363552456
+    second: zombie shote - Player_0
+  - first:
+      213: 7028047331501534009
+    second: zombie shote - Player_1
+  - first:
+      213: 9025047400631347595
+    second: zombie shote - Player_2
+  - first:
+      213: 2984328726597932287
+    second: zombie shote - Player_3
+  - first:
+      213: -6723278521200137494
+    second: zombie shote - Player_4
+  - first:
+      213: 5081445972715098462
+    second: zombie shote - Player_5
+  - first:
+      213: 3436991655460039242
+    second: zombie shote - Player_6
+  - first:
+      213: 3007617080621469114
+    second: zombie shote - Player_7
+  - first:
+      213: 6432103494178787587
+    second: zombie shote - Player_8
+  - first:
+      213: 1047780731861818013
+    second: zombie shote - Player_9
+  - first:
+      213: -6302193215445507380
+    second: zombie shote - Player_10
+  - first:
+      213: -4452182605315726817
+    second: zombie shote - Player_11
+  - first:
+      213: -1427031691578322223
+    second: zombie shote - Player_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie shote - Player_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 201
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c290d93fe607f440800000000000000
+      internalID: 4969448338363552456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be7c2dfc3a88160800000000000000
+      internalID: 7028047331501534009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 201
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a1bb4bc86f3d70800000000000000
+      internalID: 9025047400631347595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 201
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.2797699, y: 0.5057217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41dd94a277a6920800000000000000
+      internalID: 2984328726597932287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 137
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.27976975, y: 0.5171651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2ad17ecd12b2a0800000000000000
+      internalID: -6723278521200137494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 137
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.26902694, y: 0.5057217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d505803ce48640800000000000000
+      internalID: 5081445972715098462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 137
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.27364624, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6daf53b5a2bf20800000000000000
+      internalID: 3436991655460039242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 137
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.26838225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd07debcc33db920800000000000000
+      internalID: 3007617080621469114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.26311806, y: 0.5171653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30153199c0c634950800000000000000
+      internalID: 6432103494178787587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 73
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 0.2277219, y: 0.5171653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5f1536077a8e00800000000000000
+      internalID: 1047780731861818013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 73
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 0.22318399, y: 0.52288705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc26e7739ac1a88a0800000000000000
+      internalID: -6302193215445507380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 73
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 0.22772217, y: 0.5286089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12abf6528ba632c0800000000000000
+      internalID: -4452182605315726817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shote - Player_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.32025227, y: 0.522887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2df3cbc3a223ce0800000000000000
+      internalID: -1427031691578322223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

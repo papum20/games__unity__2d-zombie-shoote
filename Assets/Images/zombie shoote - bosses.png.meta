@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 427eb1d24cd508d45b794507170dde80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5652434599498569633
+    second: zombie shoote - bosses_0
+  - first:
+      213: 5562079144043825937
+    second: zombie shoote - bosses_1
+  - first:
+      213: -1646256203579476245
+    second: zombie shoote - bosses_2
+  - first:
+      213: 7592948827709678730
+    second: zombie shoote - bosses_3
+  - first:
+      213: 5470838768055256087
+    second: zombie shoote - bosses_4
+  - first:
+      213: -5763861733211996421
+    second: zombie shoote - bosses_5
+  - first:
+      213: -29138273474114747
+    second: zombie shoote - bosses_6
+  - first:
+      213: 3233360552225620471
+    second: zombie shoote - bosses_7
+  - first:
+      213: -6818381576080393259
+    second: zombie shoote - bosses_8
+  - first:
+      213: 1344182650084783183
+    second: zombie shoote - bosses_9
+  - first:
+      213: -4357401461048308223
+    second: zombie shoote - bosses_10
+  - first:
+      213: -1421952839292135498
+    second: zombie shoote - bosses_11
+  - first:
+      213: -7577222792011029079
+    second: zombie shoote - bosses_12
+  - first:
+      213: 3183774703885541976
+    second: zombie shoote - bosses_13
+  - first:
+      213: 8595956816474221051
+    second: zombie shoote - bosses_14
+  - first:
+      213: -5123046488801339697
+    second: zombie shoote - bosses_15
+  - first:
+      213: -1587985226132465101
+    second: zombie shoote - bosses_16
+  - first:
+      213: -5075246670764237082
+    second: zombie shoote - bosses_17
+  - first:
+      213: 5543219549355036267
+    second: zombie shoote - bosses_18
+  - first:
+      213: 7351951446169876785
+    second: zombie shoote - bosses_19
+  - first:
+      213: -1246218815965738605
+    second: zombie shoote - bosses_20
+  - first:
+      213: -4797049982964325955
+    second: zombie shoote - bosses_21
+  - first:
+      213: 6706315888738758030
+    second: zombie shoote - bosses_22
+  - first:
+      213: -6500305697484646288
+    second: zombie shoote - bosses_23
+  - first:
+      213: 1217978259967857950
+    second: zombie shoote - bosses_24
+  - first:
+      213: -952290550106297323
+    second: zombie shoote - bosses_25
+  - first:
+      213: 6912969934605311888
+    second: zombie shoote - bosses_26
+  - first:
+      213: -7051666150325918045
+    second: zombie shoote - bosses_27
+  - first:
+      213: -5187598055366449578
+    second: zombie shoote - bosses_28
+  - first:
+      213: -929980507865793435
+    second: zombie shoote - bosses_29
+  - first:
+      213: -1545865005235750486
+    second: zombie shoote - bosses_30
+  - first:
+      213: -3228950048707534920
+    second: zombie shoote - bosses_31
+  - first:
+      213: -7281357843856068458
+    second: zombie shoote - bosses_32
+  - first:
+      213: 2692522802531166351
+    second: zombie shoote - bosses_33
+  - first:
+      213: 6050036257302177818
+    second: zombie shoote - bosses_34
+  - first:
+      213: 7973156861810154813
+    second: zombie shoote - bosses_35
+  - first:
+      213: -5518044015633635365
+    second: zombie shoote - bosses_36
+  - first:
+      213: 510402318441927805
+    second: zombie shoote - bosses_37
+  - first:
+      213: -4173046774488327343
+    second: zombie shoote - bosses_38
+  - first:
+      213: 1858212213398849091
+    second: zombie shoote - bosses_39
+  - first:
+      213: 6116631929849882544
+    second: zombie shoote - bosses_40
+  - first:
+      213: 1880927091866733598
+    second: zombie shoote - bosses_41
+  - first:
+      213: 3991768587497811938
+    second: zombie shoote - bosses_42
+  - first:
+      213: 2526682117528818196
+    second: zombie shoote - bosses_43
+  - first:
+      213: -7850316775635473854
+    second: zombie shoote - bosses_44
+  - first:
+      213: 4599666562667262872
+    second: zombie shoote - bosses_45
+  - first:
+      213: 1593926234003581168
+    second: zombie shoote - bosses_46
+  - first:
+      213: 867067500998120766
+    second: zombie shoote - bosses_47
+  - first:
+      213: 1514563323834911372
+    second: zombie shoote - bosses_48
+  - first:
+      213: 6800935529045366647
+    second: zombie shoote - bosses_49
+  - first:
+      213: -6471489349640730216
+    second: zombie shoote - bosses_50
+  - first:
+      213: -8085914280634631585
+    second: zombie shoote - bosses_51
+  - first:
+      213: -4718503845003029239
+    second: zombie shoote - bosses_52
+  - first:
+      213: 3481549110125748632
+    second: zombie shoote - bosses_53
+  - first:
+      213: -9013582625085788746
+    second: zombie shoote - bosses_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie shoote - bosses_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 625
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a75d33025b717e40800000000000000
+      internalID: 5652434599498569633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 625
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b47592389703d40800000000000000
+      internalID: 5562079144043825937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 619
+        width: 49
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6bc5084b25729e0800000000000000
+      internalID: -1646256203579476245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 619
+        width: 48
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84aa59cab29f5960800000000000000
+      internalID: 7592948827709678730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 620
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7148e51bfd25ceb40800000000000000
+      internalID: 5470838768055256087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 625
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe7e69ba46a200b0800000000000000
+      internalID: -5763861733211996421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 525
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b053805ea789ff0800000000000000
+      internalID: -29138273474114747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 519
+        width: 49
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14b2a8a443fdc20800000000000000
+      internalID: 3233360552225620471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 519
+        width: 48
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf8a6f41e3061a0800000000000000
+      internalID: -6818381576080393259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 520
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44fb8b9ffe77a210800000000000000
+      internalID: 1344182650084783183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 525
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e827a25766783c0800000000000000
+      internalID: -4357401461048308223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 525
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b752ae2d65344ce0800000000000000
+      internalID: -1421952839292135498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 419
+        width: 49
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5603a340c48d690800000000000000
+      internalID: -7577222792011029079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 419
+        width: 48
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e8fd893a0f2c20800000000000000
+      internalID: 3183774703885541976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 420
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92b866e29fa4770800000000000000
+      internalID: 8595956816474221051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 445
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc61f2b8c5847e8b0800000000000000
+      internalID: -5123046488801339697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 451
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5ecfa9d756f9e0800000000000000
+      internalID: -1587985226132465101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 451
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1d91fa0a1199b0800000000000000
+      internalID: -5075246670764237082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 407
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ece479fc87dec40800000000000000
+      internalID: 5543219549355036267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 407
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ffd253e0670660800000000000000
+      internalID: 7351951446169876785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 430
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39944f1f69a84bee0800000000000000
+      internalID: -1246218815965738605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 419
+        width: 17
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 1.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12e93d4747d6db0800000000000000
+      internalID: -4797049982964325955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 307
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de4dbe4ce911d50800000000000000
+      internalID: 6706315888738758030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 307
+        width: 63
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078daf188664ac5a0800000000000000
+      internalID: -6500305697484646288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 307
+        width: 63
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15588936c027e010800000000000000
+      internalID: 1217978259967857950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 307
+        width: 63
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce3f54ac8c8c2f0800000000000000
+      internalID: -952290550106297323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 307
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fda1f678dcfef50800000000000000
+      internalID: 6912969934605311888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 307
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a66d236ff2732e90800000000000000
+      internalID: -7051666150325918045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6562060cd03f108b0800000000000000
+      internalID: -5187598055366449578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 207
+        width: 78
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5905151, y: 0.703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3f94c7ab0813f0800000000000000
+      internalID: -929980507865793435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 207
+        width: 78
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5905151, y: 0.703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa93734d7fbfb8ae0800000000000000
+      internalID: -1545865005235750486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 207
+        width: 78
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5905151, y: 0.703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf9e45d9077033d0800000000000000
+      internalID: -3228950048707534920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 207
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690747a8e9b63fa90800000000000000
+      internalID: -7281357843856068458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_33
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 207
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88628a2933cd5520800000000000000
+      internalID: 2692522802531166351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 107
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18eabaebeb06f350800000000000000
+      internalID: 6050036257302177818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 107
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d99a61ce756ae60800000000000000
+      internalID: 7973156861810154813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 107
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ef212438fb63b0800000000000000
+      internalID: -5518044015633635365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 107
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7454435430551700800000000000000
+      internalID: 510402318441927805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 107
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b988f711c5616c0800000000000000
+      internalID: -4173046774488327343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_39
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 107
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464ee0b922b9c910800000000000000
+      internalID: 1858212213398849091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a3883554a2e450800000000000000
+      internalID: 6116631929849882544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c002779356a1a10800000000000000
+      internalID: 1880927091866733598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efae5b816c956730800000000000000
+      internalID: 3991768587497811938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 79
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41213abbff3901320800000000000000
+      internalID: 2526682117528818196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 57
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a25fd3c721e0390800000000000000
+      internalID: -7850316775635473854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89336016e5c45df30800000000000000
+      internalID: 4599666562667262872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a5fff673ce1610800000000000000
+      internalID: 1593926234003581168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3557495c41780c00800000000000000
+      internalID: 867067500998120766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac30b815fc40510800000000000000
+      internalID: 1514563323834911372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777151da4d6c16e50800000000000000
+      internalID: 6800935529045366647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899c0f259b6a036a0800000000000000
+      internalID: -6471489349640730216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_51
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab3828dcf09cf80800000000000000
+      internalID: -8085914280634631585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 18
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905974fa0c1848eb0800000000000000
+      internalID: -4718503845003029239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 13
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916f193872f05030800000000000000
+      internalID: 3481549110125748632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie shoote - bosses_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde026cb5259e280800000000000000
+      internalID: -9013582625085788746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

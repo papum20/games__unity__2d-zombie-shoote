@@ -1,0 +1,24 @@
+audio
+
+danno da caduta
+boost
+effetti (granata..)
+platform messe in modo che ci arrivi
+
+
+bug salto
+
+posizione joystick con cambio risoluzione
+options non si memorizzano
+shotgun tipo granata
+cose si raccolgono doppie
+munizioni raddoppino dolo quando prendi nuova arma, e stat+2 solo prima volta
+
+
+stat?
+enemy spawn (+?)
+
+scritte modifyControls
+granata range piu ampio
+grondchecker piu esterno
++vita boss

@@ -1,0 +1,35 @@
+
+cost: x,y,g,t,y0
+
+x = v cosa t
+y = -1/2 g t^2 + v sena t + y0
+
+vx = x/t
+vy = (y + 1/2g t^2 - y0) / t
+y = 0
+vy = (1/2 g t^2 - y0) / t
+
+
+
+
+
+
+
+
+x,y,g
+
+x/2 = v cosa t
+y = 1/2 g t^2 + v sena t
+
+l = sqrt(x^2+y^2)
+cosa = x/l
+sena = y/l
+
+v = l/2t
+y = 1/2 g t^2 + l/2t y/l t
+y = 1/2 g t^2 + y/2
+g t^2  - y = 0
+
+t = sqrt(y/g)
+v = l/2t
+
